@@ -1,5 +1,8 @@
 # SpotifyShortcuts
 A repo containing a simpleAutoHotKeys script with custom Spotify shortcuts
+# Requirements
+This script requires AutoHotKeys V1 to run. Simply download from   `[here][1]` → [here][1]  
+  `[1]: [https://google.com](https://www.autohotkey.com/download/)`  
 # The shortcuts this script contains are:
 - ctrl+E -> Next song
 - ctrl+Q -> Previous song
